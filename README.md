@@ -21,4 +21,4 @@ python forecast.py -d path/to/stock_prices.csv -n num_stocks -m true\false
 - numpy
 
 # Acknowledgments
-This project was developed for the "Algorithms in Software Development" course at the Department of Informatics and Telecommunications of the National and Kapodistrian University of Athens
+This project was developed for the "Algorithms in Software Development" course at the Department of Informatics and Telecommunications of the National and Kapodistrian University of Athens.
