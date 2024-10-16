@@ -1,5 +1,5 @@
 # Stock Price Prediction with LSTM Recurrent Neural Network
-This project was developed for the "Algorithms in Software Development" course at the Department of Informatics and Telecommunications of the National and Kapodistrian University of Athens. It aims to predict stock prices using a Long Short-Term Memory (LSTM) Recurrent Neural Network implemented with the TensorFlow framework. The model utilizes historical stock price data obtained from Yahoo Finance.
+This project aims to predict stock prices using a Long Short-Term Memory (LSTM) Recurrent Neural Network implemented with the TensorFlow framework. The model utilizes historical stock price data obtained from Yahoo Finance.
 
 # Overview
 The project consists of two main Python files:
